@@ -1,0 +1,1 @@
+{"version":3,"file":"payment_client.d.ts","sourceRoot":"","sources":["../../src/auxiliary/payment_client.ts"],"names":[],"mappings":"AAYA,qBAAa,aAAa;WACV,GAAG;IAGX,IAAI,CAAC,cAAc,EAAE,MAAM,EAAE,MAAM,EAAE,MAAM,GAAG,OAAO,CAAC,OAAO,CAAC;IAQ9D,WAAW,CAAC,cAAc,EAAE,MAAM,EAAE,MAAM,EAAE,MAAM,GAAG,OAAO,CAAC,OAAO,CAAC;CAe5E"}
